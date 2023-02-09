@@ -10,7 +10,7 @@ Licensed accountant
 - 🌱 I’m currently learning Web Development
 - 📫 Contact me on email: jsa.eric@hotmail.com
 - 
-[![Eriques Andrade GitHub stats](https://github-readme-stats.vercel.app/api?username=jsa-eriques)](https://github.com/jsa-eriques/github-readme-stats)
+[![Eriques Andrade GitHub stats](https://github-readme-stats.vercel.app/api?username=jsa-eriques&show_icons=true&theme=maroongold)](https://github.com/jsa-eriques/github-readme-stats)
 
 <picture>
 <source 
