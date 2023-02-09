@@ -9,7 +9,8 @@ Licensed accountant
 - 🔭 I’m currently working how team management in https://l2might.club/
 - 🌱 I’m currently learning Web Development
 - 📫 Contact me on email: jsa.eric@hotmail.com
-
+- 
+[![Eriques Andrade GitHub stats](https://github-readme-stats.vercel.app/api?username=jsa-eriques)](https://github.com/jsa-eriques/github-readme-stats)
 
 <picture>
 <source 
