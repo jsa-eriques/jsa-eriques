@@ -16,10 +16,6 @@ Licensed accountant
   srcset="https://github-readme-stats.vercel.app/api?username=jsa-eriques&show_icons=true&theme=maroongold"
   media="(prefers-color-scheme: maroongold)"
 />
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=jsa-eriques&show_icons=true"
-  media="(prefers-color-scheme: maroongold), (prefers-color-scheme: maroongold)"
-/>
 <img src="https://github-readme-stats.vercel.app/api?username=jsa-eriques&show_icons=true" />
 </picture>
 
