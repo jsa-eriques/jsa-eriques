@@ -1,5 +1,7 @@
 ### Hi there, i'm Eriques Andrade.
 
+- Certified Public Accountant
+- Product Owner at [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/warstown/)
 - 🌱 I’m currently learning Web Development on Trybe Programming School!
 - 📫 Contact me on email: jsa.eric@hotmail.com
 
