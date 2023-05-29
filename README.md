@@ -1,7 +1,6 @@
 ### Hi there, i'm Eriques Andrade.
 
 - Certified Public Accountant
-- Product Owner on @WarstowN
 - Currently Learning Web Development on Trybe Programming School!
 - Contact me on email: jsa.eric@hotmail.com
 
