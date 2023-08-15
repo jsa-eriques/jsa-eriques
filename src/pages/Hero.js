@@ -24,7 +24,7 @@ function Hero () {
         <br />
         <div className="hero-btns">
           <button className="hire-me">
-            <a href="https://drive.google.com/file/d/1RIQlxcFspH89xvugEeEyvgSG_ABMX3rI/view?usp=drive_link" target="_blank" rel="noreferrer">
+            <a href="https://drive.google.com/file/d/1L9t6f6Ca9-cH-mn1FG5AjeJ-SzduQWFg/view?usp=sharing" target="_blank" rel="noreferrer">
               GET MY CV
             </a>
           </button>
@@ -47,9 +47,9 @@ function Hero () {
         {/* <a href="https://wellfound.com/u/jsa-eriques" target="_blank" rel="noreferrer">
           <i className="fab fa-angellist" />
         </a> */}
-        <a href="https://www.twitter.com/jsa-eriques" target="_blank" rel="noreferrer">
+        {/*<a href="https://www.twitter.com/jsa-eriques" target="_blank" rel="noreferrer">
           <i className="fa-brands fa-twitter" />
-        </a>
+      </a>*/}
       </div>
   </div>
   )

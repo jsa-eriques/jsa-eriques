@@ -46,7 +46,7 @@ const About = () => (
         Além das minhas habilidades técnicas, sou uma pessoa criativa e apaixonada por inovação. Estou sempre em busca de novas estratégias para impulsionar o crescimento e aumentar a satisfação dos usuários. Minha capacidade de identificar oportunidades de mercado, compreender as necessidades do público-alvo e implementar planos eficazes tem sido um diferencial importante desde o inicio da minha carreira.
       </p>
       <button className="hire-me">
-        <a href="https://drive.google.com/file/d/1RIQlxcFspH89xvugEeEyvgSG_ABMX3rI/view?usp=drive_link" target="_blank" rel="noreferrer">
+        <a href="https://drive.google.com/file/d/1L9t6f6Ca9-cH-mn1FG5AjeJ-SzduQWFg/view?usp=sharing" target="_blank" rel="noreferrer">
           GET MY CV
         </a>
       </button>
