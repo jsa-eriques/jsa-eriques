@@ -24,7 +24,7 @@ function Hero () {
         <br />
         <div className="hero-btns">
           <button className="hire-me">
-            <a href="https://drive.google.com/file/d/1L9t6f6Ca9-cH-mn1FG5AjeJ-SzduQWFg/view?usp=sharing" target="_blank" rel="noreferrer">
+            <a href="https://drive.google.com/file/d/1hms42PdGqHVmWJ1pqyUhPXhwbFqzhsRf/view?usp=drive_link" target="_blank" rel="noreferrer">
               MEU CV
             </a>
           </button>
