@@ -25,13 +25,11 @@ function Hero () {
         <div className="hero-btns">
           <button className="hire-me">
             <a href="https://drive.google.com/file/d/1L9t6f6Ca9-cH-mn1FG5AjeJ-SzduQWFg/view?usp=sharing" target="_blank" rel="noreferrer">
-              GET MY CV
+              MEU CV
             </a>
           </button>
           <button className="lets-talk">
-            <Link spy smooth offset={50} duration={500} to="contact">
-              CONTACT ME
-            </Link>
+          <span><a href="jsa.eric@hotmail.com">CONTATO</a></span>
           </button>
         </div>
       </div>
