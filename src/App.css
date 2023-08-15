@@ -1,0 +1,124 @@
+* {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+  background: rgb(0, 0, 0);
+}
+
+.stars2{
+  position: relative;
+  width: 1px;
+  height: 1px;
+  border-radius: 50%;
+  box-shadow: 15px 15px white,
+    125px 35px white,
+    50px 80px white,
+    10px 120px white,
+    275px 90px white,
+    230px 10px white,
+    120px 130px white,
+    300px 130px white,
+    220px 115px white;
+  animation: anim-stars 20s linear infinite;
+}
+
+.stars2::after{
+  content: " ";
+  position: absolute;
+  top: 150px;
+  width: 1px;
+  height: 1px;
+  border-radius: 50%;
+  box-shadow: 15px 15px white,
+    125px 35px white,
+    50px 80px white,
+    10px 120px white,
+    275px 90px white,
+    230px 10px white,
+    120px 130px white,
+    300px 130px white,
+    220px 115px white;
+}
+
+
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+ul > li {
+  list-style: none;
+  font-weight: bold;
+}
+
+button {
+  border: 2px solid white;
+  padding: 0.7rem 3rem;
+  border-radius: 50px;
+  cursor: pointer;
+  font-size: 1.3rem;
+  background: #cb450c;
+  transition: 0.5s;
+}
+
+button:hover {
+  background: white;
+  color: black;
+  border: 2px solid black;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+.App {
+  /* background-image: url('./assets/effect.png'); */
+  /* background-image: url('./assets/cool-background.png'); */
+  /* animation: static 3s steps(5, end) infinite; */
+  /* z-index: 999; */
+  /* background-size: 200px; */
+}
+
+footer h3 {
+  text-align: center;
+  color: white;
+  margin: 0;
+  padding: 2% 0;
+  letter-spacing: 0.1rem;
+}
+
+@keyframes static {
+  0% {
+    background-position: 0% 0%;
+  }
+
+  20% {
+    background-position: 25% 15%;
+  }
+
+  40% {
+    background-position: 50% 69%;
+  }
+
+  60% {
+    background-position: 33% 25%;
+  }
+
+  80% {
+    background-position: 72% 4%;
+  }
+
+  100% {
+    background-position: 80% 91%;
+  }
+}
+
+@media screen and (min-resolution: 100dpi) {
+  button {
+    font-size: 1rem;
+  }
+}
