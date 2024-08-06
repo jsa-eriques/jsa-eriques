@@ -44,11 +44,11 @@ const Contact = () => (
           {' '}
           <a href="https://www.linkedin.com/in/jsa-eriques" target="_blank" rel="noreferrer">LINKEDIN</a>
         </span>
-        <span>
+        {/* <span>
           {' '}
           <a href="https://wellfound.com/u/jsa-eriques" target="_blank" rel="noreferrer">WELLFOUND</a>
-        </span>
-        <span><a href="https://www.twitter.com/jsa-eriques" target="_blank" rel="noreferrer">TWITTER</a></span>
+        </span> */}
+        {/* <span><a href="https://www.twitter.com/jsa-eriques" target="_blank" rel="noreferrer">TWITTER</a></span> */}
       </div>
     </div>
   </div>

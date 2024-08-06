@@ -17,11 +17,12 @@ function Hero () {
     <div className="hero-overlay">
       <div className="description">
         <h2 className="title">Eriques Andrade</h2>
-        <h3 className="tagline animated">Desenvolvedor Fullstack</h3>
+        <h3 className="tagline animated">Desenvolvedor Front-End</h3>
         <br />
         <p className="paragraph">Bem-vindo(a) ao meu portfólio!
         <br /> 
-        Sou um entusiasta e aspirante a Desenvolvedor Fullstack Junior, ansioso para embarcar em minha jornada no mundo do desenvolvimento web. Com uma paixão genuína pela tecnologia, venho explorando e aprendendo as nuances dessa area.</p>
+        Profissional multifacetado com sólida experiência em desenvolvimento front-end, coordenação de marketing e gestão de projetos, busco uma nova oportunidade onde possa aplicar minha expertise em estratégias digitais, integração de sistemas e liderança de equipes para impulsionar o sucesso e a inovação da empresa.
+        </p>
         <br />
         <div className="hero-btns">
           <button className="hire-me">

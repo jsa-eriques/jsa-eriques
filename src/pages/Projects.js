@@ -3,7 +3,7 @@ import './Projects.css';
 import { useSelector } from 'react-redux/es/hooks/useSelector';
 import { useDispatch } from 'react-redux';
 import { fetchProjects } from '../store/ProjectsSlice';
-// import ProjectCard from '../components/ProjectCard';
+import ProjectCard from '../components/ProjectCard';
 
 const Projects = () => {
   const dispatch = useDispatch();
@@ -14,25 +14,21 @@ const Projects = () => {
   }, [dispatch]);
 
   return (
-    <div className="projects" id="projects">
-      <h1 className="title projects-title">featuRed pRojecTs</h1>
-      <p className="projects-para">
+    <div className='projects' id='projects'>
+      <h1 className='title projects-title'>featuRed pRojecTs</h1>
+      <p className='projects-para'>
         Here are some of my projects that I have worked on.
       </p>
-      <div className="projects-container">
-        {
-          // projects.map((project, id) => (
-            // <ProjectCard
-
-            //   image={project.image_url}
-            //   title={project.project_name}
-            //   description={project.description}
-            //   stacks={project.tech_stack}
-            //   source_link={project.source_link}
-
-            // />
-          // ))
-        }
+      <div className='projects-container'>
+        {projects.map((project, id) => (
+          <ProjectCard
+            image={project.image_url}
+            title={project.project_name}
+            description={project.description}
+            stacks={project.tech_stack}
+            source_link={project.source_link}
+          />
+        ))}
       </div>
     </div>
   );
