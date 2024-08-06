@@ -20,7 +20,7 @@ const Contact = () => (
         <p>Frontend Development</p>
         <p>React</p>
         <p>Backend Development</p>
-        <p>Ruby on Rails</p>
+        {/* <p>Ruby on Rails</p> */}
         <p>WordPress Development</p>
         <p>Startups</p>
         <p>New Opportunities</p>
@@ -33,7 +33,7 @@ const Contact = () => (
 
       <h3>
         MINDING A PROJECT?
-        <span><a href="jsa.eric@hotmail.com">cOnTaCt mE</a></span>
+        <span><a href="#">cOnTaCt mE</a></span>
       </h3>
 
       <hr />
