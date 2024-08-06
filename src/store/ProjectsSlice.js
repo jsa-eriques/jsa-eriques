@@ -52,7 +52,7 @@ export const fetchProjects = () => async (dispatch) => {
     {
       "project_name": "MegaZap Business (Hot Site v2)",
       "image_url": "https://raw.githubusercontent.com/jsa-eriques/json-database/main/assets/mz-main-2.0.png",
-      "description": "Monito Pet Store is an e-commerce store for pets and pet-items.",
+      "description": "Website completo de uma plataforma de gestão de atendimentos que centraliza a comunicação entre empresas e seus clientes, oferecendo uma solução integrada para otimizar o atendimento ao cliente. Contendo API De Conversão do facebook integrada além de captações de Urchin Tracking Module - UTM.",
       "source_link": "https://github.com/jsa-eriques/megazap-ads-news2",
       "live_link": "https://ads-news-2.vercel.app/",
       "tech_stack": ["Vite + React","Ruby on Rails","SCSS"]
@@ -70,7 +70,7 @@ export const fetchProjects = () => async (dispatch) => {
     {
       "project_name": "MegaZap Business (Institucional v0.2)",
       "image_url": "https://raw.githubusercontent.com/jsa-eriques/json-database/main/assets/mz-option-2.0.png",
-      "description": "Monito Pet Store is an e-commerce store for pets and pet-items.",
+      "description": "Website completo de uma plataforma de gestão de atendimentos que centraliza a comunicação entre empresas e seus clientes, oferecendo uma solução integrada para otimizar o atendimento ao cliente. Contendo API De Conversão do facebook integrada além de captações de Urchin Tracking Module - UTM.",
       "source_link": "https://github.com/jsa-eriques/MZ/tree/main/Sites/mz-main/mz-ads-idea-01",
       "live_link": "https://mz-ads-eriques-andrade.vercel.app/",
       "tech_stack": ["Vite + React","React","CSS"]
