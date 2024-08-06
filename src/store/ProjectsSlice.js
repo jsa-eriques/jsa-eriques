@@ -41,7 +41,7 @@ export const fetchProjects = () => async (dispatch) => {
     },
   
     {
-      "project_name": "Megazap Business Franquias v1",
+      "project_name": "Megazap Business Franquias (Hot Site v1)",
       "image_url": "https://raw.githubusercontent.com/jsa-eriques/json-database/main/assets/mz-franquias.png",
       "description": "O site oferece venda de franquia da plataforma megazap para ajudar as empresas a implementarem chatbots e outras ferramentas de automação de atendimento, visando tornar a comunicação com os clientes mais eficiente e personalizada​.",
       "source_link": "https://github.com/jsa-eriques/parceiros-jsa",
