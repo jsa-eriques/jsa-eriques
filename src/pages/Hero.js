@@ -21,7 +21,7 @@ function Hero () {
         <br />
         <p className="paragraph">Bem-vindo(a) ao meu portfólio!
         <br /> 
-        Profissional multifacetado com sólida experiência em desenvolvimento front-end, coordenação de marketing e gestão de projetos, busco uma nova oportunidade onde possa aplicar minha expertise em estratégias digitais, integração de sistemas e liderança de equipes para impulsionar o sucesso e a inovação da empresa.
+        Profissional multifacetado com sólida experiência em desenvolvimento front-end, marketing digital, lançamento de produtos e gestão de projetos, sempre aplicando minha expertise em estratégias digitais, integração de sistemas e coordenação de equipes para impulsionar o sucesso e a inovação da empresa.
         </p>
         <br />
         <div className="hero-btns">
