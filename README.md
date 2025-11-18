@@ -1,48 +1,80 @@
-### Hi there, i'm Eriques Andrade.
+### Hi there, I'm **Eriques Andrade** 👊
 
-- Certified Public Accountant
-- Currently Learning Web Development on Trybe Programming School!
-- Contact me on email: jsa.eric@hotmail.com
-- My Web Portfolio - www.jsa-eriques.com.br
+* Programador, Gestor de Projetos & Empresário
+* Sócio da **OXT Conecta** (Plataforma de automação e atendimento omnichannel)
+* Gestor de operações de **Direct Response**
+* Criador de projetos como **MindOps Protocol™ / Dopamina Zero™**, **The Forge**, **DR Manager**, e diversos sistemas internos
+* Atualmente aperfeiçoando desenvolvimento fullstack, automações e gestão de times
+* E-mail: **[jsa.eric@hotmail.com](mailto:jsa.eric@hotmail.com)**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jsa.eriques/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/theric_sa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eriques-andrade-3a216b1ab/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCZP_jccOev5GwCCq3MHFeLg) 
+---
 
-# 💻 Tech Stack:
+# 💼 **Quem sou eu hoje**
 
-Frontend:
+Sou um cara que vive em duas frentes:
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**👨‍💻 Programação**
+Desenvolvo aplicações modernas (React, Next, Node, Tailwind, MongoDB) e gerencio sistemas internos, como:
 
-Backend: 
+* DR Manager v2.0 — Sistema completo de gestão de ofertas
+* MindOps Protocol — Sistema + plataforma de aulas
+* Apps para delivery (tipo iFood), barbearias, NEA (assistente médico), entre outros
+* App de gerenciamento empresarial (lojas de moveis, agencias de microcreditos)
+* Integrações avançadas com OpenAI, n8n, Supabase, Railway, Hostinger
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+**📈 Gestão & Estratégia**
+Lidero esteiras completas de operações de Direct Response:
 
-Tests:
+* Coordenação de Copywriters (VSL e Criativos)
+* Validação e aprovação de rotinas
+* Fluxo com editores, gestores de tráfego e produto
+* Organização de processos internos, relatórios e dashboards
+* Estruturação e operação de ofertas internacionais com plataformas como (BuyGoods, Kiwify, Digistore, ClickBank)
 
-![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
-![MOCHA](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
+E, claro, construindo sempre sistemas para automatizar tudo — porque tempo é vida.
 
-Office:
+---
 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+# 💻 **Tech Stack Atual**
 
+### **Frontend**
 
-# 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=jsa-eriques&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=jsa-eriques&theme=synthwave&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jsa-eriques&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### **Backend**
+
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-3FA037?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### **Tests**
+
+![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge\&logo=Jest\&logoColor=white)
+![Testing Library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge\&logo=testing-library\&logoColor=red)
+![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge\&logo=mocha\&logoColor=Brown)
+
+### **Ops & Product**
+
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge\&logo=Trello\&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge\&logo=notion\&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge\&logo=slack\&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7b68ee?style=for-the-badge\&logo=clickup\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-ea4c89?style=for-the-badge\&logo=n8n\&logoColor=white)
+
+---
+
+# 🔥 **Fun Fact**
+
+MMORPG lover. Administrei servidor de **Lineage II**, realizando sonho de infância.
+Ainda jogo, mas agora o farm é mais caro: tempo.
+
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jsa-eriques&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
