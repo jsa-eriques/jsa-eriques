@@ -1,3 +1,23 @@
+# 📊 GitHub Stats:
+<!-- ![](https://github-readme-stats.vercel.app/api?username=jsa-eriques&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=jsa-eriques&theme=synthwave&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jsa-eriques&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jsa-eriques&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
+-->
+
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark) -->
+<!--
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+-->
+---
+[![](https://visitcount.itsvg.in/api?id=jsa-eriques&icon=1&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ### Hi there, I'm **Eriques Andrade** 👊
 
 * Programador, Gestor de Projetos & Empresário
