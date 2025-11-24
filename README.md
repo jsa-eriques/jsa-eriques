@@ -14,7 +14,6 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 -->
 ---
-[![](https://visitcount.itsvg.in/api?id=jsa-eriques&icon=1&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
