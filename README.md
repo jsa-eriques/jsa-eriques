@@ -14,6 +14,7 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 -->
 ---
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jsa-eriques" alt="GitHub Streak" /></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
