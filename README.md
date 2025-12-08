@@ -1,5 +1,5 @@
 # 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=jsa-eriques&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+![](https://github-readme-stats.vercel.app/api?username=jsa-eriques&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jsa-eriques&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- ## 🏆 GitHub Trophies
@@ -12,8 +12,6 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 -->
----
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jsa-eriques&theme=dark)](https://git.io/streak-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
