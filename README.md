@@ -87,11 +87,6 @@ E, claro, construindo sempre sistemas para automatizar tudo — porque tempo é 
 
 ---
 
-# 🔥 **Fun Fact**
-
-MMORPG lover. Administrei servidor de **Lineage II**, realizando sonho de infância.
-Ainda jogo, mas agora o farm é mais caro: tempo.
-
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jsa-eriques&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
